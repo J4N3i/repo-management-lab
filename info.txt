@@ -1,0 +1,2 @@
+This repository demonstrates basic Git and GitHub/GitLab repository management tasks.
+It includes initialization, branching, merging, conflict resolution, and basic CI awareness.by janeesha gamage(IT23745988)
