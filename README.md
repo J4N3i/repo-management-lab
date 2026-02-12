@@ -1,3 +1,8 @@
 Repository Management Lab
 
-Main branch update: Added overview line.
+Overview:
+This repository demonstrates Git operations including branching, merging, and conflict resolution.
+
+Updates:
+- Main branch update applied.
+- Feature branch update applied.
