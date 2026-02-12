@@ -6,3 +6,4 @@ This repository demonstrates Git operations including branching, merging, and co
 Updates:
 - Main branch update applied.
 - Feature branch update applied.
+Main branch second update.
