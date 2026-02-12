@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Repository Management Lab
 
 Overview:
@@ -7,3 +8,8 @@ Updates:
 - Main branch update applied.
 - Feature branch update applied.
 Main branch second update.
+=======
+Repository Management Lab - Feature Branch Edition
+Feature branch update: Added feature-specific description.
+Feature branch second update.
+>>>>>>> feature-info
